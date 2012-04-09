@@ -1,0 +1,6 @@
+name: AnonymousDeath
+version: 1.0
+main: com.precipicegames.lachy2901.anondeath.AnonymousDeath
+commands:
+    deathroll:
+        description: Begin the nightly deathroll.
